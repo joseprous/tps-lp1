@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<jugadores>
+		<jugador empieza="si" nombre="50139h"/>
+		<jugador nombre="50139ai"/>
+	</jugadores>
+	<tiempo>30</tiempo>
+	<sacarBombasCuandoExplotan>no</sacarBombasCuandoExplotan>
+	<soldadosMuchosPasos>si</soldadosMuchosPasos>
+	<estilo>europeo</estilo>
+</config>
